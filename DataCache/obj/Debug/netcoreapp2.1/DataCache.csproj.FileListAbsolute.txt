@@ -1,0 +1,13 @@
+D:\R&D\DataCache\DataCache\bin\Debug\netcoreapp2.1\DataCache.deps.json
+D:\R&D\DataCache\DataCache\bin\Debug\netcoreapp2.1\DataCache.runtimeconfig.json
+D:\R&D\DataCache\DataCache\bin\Debug\netcoreapp2.1\DataCache.runtimeconfig.dev.json
+D:\R&D\DataCache\DataCache\bin\Debug\netcoreapp2.1\DataCache.dll
+D:\R&D\DataCache\DataCache\bin\Debug\netcoreapp2.1\DataCache.pdb
+D:\R&D\DataCache\DataCache\obj\Debug\netcoreapp2.1\DataCache.csproj.CoreCompileInputs.cache
+D:\R&D\DataCache\DataCache\obj\Debug\netcoreapp2.1\DataCache.RazorAssemblyInfo.cache
+D:\R&D\DataCache\DataCache\obj\Debug\netcoreapp2.1\DataCache.RazorAssemblyInfo.cs
+D:\R&D\DataCache\DataCache\obj\Debug\netcoreapp2.1\DataCache.AssemblyInfoInputs.cache
+D:\R&D\DataCache\DataCache\obj\Debug\netcoreapp2.1\DataCache.AssemblyInfo.cs
+D:\R&D\DataCache\DataCache\obj\Debug\netcoreapp2.1\DataCache.RazorTargetAssemblyInfo.cache
+D:\R&D\DataCache\DataCache\obj\Debug\netcoreapp2.1\DataCache.dll
+D:\R&D\DataCache\DataCache\obj\Debug\netcoreapp2.1\DataCache.pdb
